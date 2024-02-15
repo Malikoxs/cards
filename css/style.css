@@ -137,3 +137,8 @@ section{
 	display: block;
 	flex-wrap: wrap;
 }
+.menu{
+	width: auto;
+	height: 300px;
+	display: block;
+}
