@@ -142,3 +142,7 @@ section{
 	height: 300px;
 	display: block;
 }
+.contacts{
+	align-items: center;
+	display: block;
+}
